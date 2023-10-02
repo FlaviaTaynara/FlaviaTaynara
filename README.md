@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b8136f&height=120&section=header"/>
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Eu sou a Laisa Andrade</h1>
 <br>
 <div align="left">
   <a href="https://github.com/FlaviaTaynara">
