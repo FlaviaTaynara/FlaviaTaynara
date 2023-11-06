@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b8136f&height=120&section=header"/>
 <br>
 <div align="left">
-  <a href="https://github.com/FlaviaTaynara">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaTaynara&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaTaynara&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -16,7 +15,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
-  ##
+  
 <div align="center">
   <a href="https://www.instagram.com/fah.kest/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
